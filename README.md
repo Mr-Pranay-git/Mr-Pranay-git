@@ -1,4 +1,4 @@
-![logo](https://github.com/Mr-Pranay-git/Mr-Pranay-git/commit/bb6153daf6410445290c714aee622d6ef48db7f0)
+![logo](https://github.com/Mr-Pranay-git/Mr-Pranay-git/commit/bb6153daf6410445290c714aee622d6ef48db7f0.png)
 <h1 align="center">Hi 👋, I'm Pranay Manusmare</h1>
 <h3 align="center">Aspiring Web Developer | Building real-world projects | Learning React & JavaScript</h3>
 
